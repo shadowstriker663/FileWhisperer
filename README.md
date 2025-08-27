@@ -8,8 +8,8 @@ How to Use
 
 
 Navigate into the project folder:
-
-cd EchoMonitor
+ ```bash
+  cd EchoMonitor
 
 
 Run the batch script:
@@ -19,6 +19,7 @@ Echomonitor.bat
 ⚙ Usage
 
 When you run the script, it will prompt you for:
+```bash
 
 Logfile Name → Where results will be saved (default: network_monitoring.txt)
 
